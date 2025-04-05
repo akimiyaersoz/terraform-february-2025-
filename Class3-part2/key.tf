@@ -9,8 +9,6 @@ tags ={
 
 }
 
-
-
 terraform {
   backend "s3" {
     bucket = "ayselinyo"
